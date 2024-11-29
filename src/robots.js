@@ -6,6 +6,18 @@ export const robots = [
     email: 'Sincere@april.bizx'
   },
   {
+    id: 11,
+    name: 'Srini Prasanna',
+    username: 'srinip',
+    email: 'srinip@email.in'
+  },
+  {
+    id: 12,
+    name: 'Kshama Prasanna',
+    username: 'srinip',
+    email: 'kshamap@email.in'
+  },
+  {
     id: 2,
     name: 'Ervin Howell',
     username: 'Antonette',
