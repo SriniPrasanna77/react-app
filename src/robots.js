@@ -6,6 +6,12 @@ export const robots = [
     email: 'Sincere@april.bizx'
   },
   {
+    id: 11,
+    name: 'Srini P',
+    username: 'Bret',
+    email: 'Sincere@april.bizx'
+  },
+  {
     id: 2,
     name: 'Ervin Howell',
     username: 'Antonette',
