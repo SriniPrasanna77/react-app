@@ -34,6 +34,7 @@ class App extends Component {
                 <div className='tc'>
                     <h1>Robo-Friends</h1>
                     <h2>Testing GitButler</h2>
+                    <h3>More names</h3>
                     <Searchbox event={this.onSearchChange} />
                     <Scroll>
                         <Cards robots={filterRobots} />
