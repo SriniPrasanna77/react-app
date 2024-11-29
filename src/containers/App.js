@@ -32,7 +32,8 @@ class App extends Component {
         return robots.length === 0? <h1>Loading...</h1> :
         (
                 <div className='tc'>
-                    <h1>RoboFriends</h1>
+                    <h1>Robo-Friends</h1>
+                    <h2>Testing GitButler</h2>
                     <Searchbox event={this.onSearchChange} />
                     <Scroll>
                         <Cards robots={filterRobots} />
